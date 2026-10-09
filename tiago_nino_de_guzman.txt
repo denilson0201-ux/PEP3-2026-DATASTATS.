@@ -1,0 +1,4 @@
+Nombre: Tiago
+Apellido: Niño de Guzmán Salazar
+Grupo: DataStats
+Rol o responsabilidad principal: Planificación y Diseño del Proyecto (Diseño y planificación de encuesta)
