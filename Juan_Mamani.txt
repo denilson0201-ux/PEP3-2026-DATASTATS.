@@ -1,0 +1,4 @@
+Nombre: Juan
+Apellido: Mamani
+Grupo: DataStats
+Rol o responsabilidad principal: Analista de resultados
