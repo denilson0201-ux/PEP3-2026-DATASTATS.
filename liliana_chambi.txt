@@ -1,0 +1,4 @@
+Nombre: Liliana
+Apellido: Chambi Colque
+Grupo: DataStats
+Rol o responsabilidad principal: Recolección, Registro y Organización de los Datos
