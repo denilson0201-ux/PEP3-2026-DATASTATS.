@@ -1,0 +1,32 @@
+C:\Users\DENILSON\Desktop\DataStats_CSharp\bin\Debug\net8.0-windows\DataStats.exe
+C:\Users\DENILSON\Desktop\DataStats_CSharp\bin\Debug\net8.0-windows\DataStats.deps.json
+C:\Users\DENILSON\Desktop\DataStats_CSharp\bin\Debug\net8.0-windows\DataStats.runtimeconfig.json
+C:\Users\DENILSON\Desktop\DataStats_CSharp\bin\Debug\net8.0-windows\DataStats.runtimeconfig.dev.json
+C:\Users\DENILSON\Desktop\DataStats_CSharp\bin\Debug\net8.0-windows\DataStats.dll
+C:\Users\DENILSON\Desktop\DataStats_CSharp\bin\Debug\net8.0-windows\DataStats.pdb
+C:\Users\DENILSON\Desktop\DataStats_CSharp\obj\Debug\net8.0-windows\DataStats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DENILSON\Desktop\DataStats_CSharp\obj\Debug\net8.0-windows\DataStats.AssemblyInfoInputs.cache
+C:\Users\DENILSON\Desktop\DataStats_CSharp\obj\Debug\net8.0-windows\DataStats.AssemblyInfo.cs
+C:\Users\DENILSON\Desktop\DataStats_CSharp\obj\Debug\net8.0-windows\DataStats.csproj.CoreCompileInputs.cache
+C:\Users\DENILSON\Desktop\DataStats_CSharp\obj\Debug\net8.0-windows\DataStats.dll
+C:\Users\DENILSON\Desktop\DataStats_CSharp\obj\Debug\net8.0-windows\refint\DataStats.dll
+C:\Users\DENILSON\Desktop\DataStats_CSharp\obj\Debug\net8.0-windows\DataStats.pdb
+C:\Users\DENILSON\Desktop\DataStats_CSharp\obj\Debug\net8.0-windows\DataStats.genruntimeconfig.cache
+C:\Users\DENILSON\Desktop\DataStats_CSharp\obj\Debug\net8.0-windows\ref\DataStats.dll
+C:\Users\DENILSON\Desktop\DataStats_CSharp\obj\Debug\net8.0-windows\DataStats.csproj.Up2Date
+C:\Users\DENILSON\Desktop\DataStats Proyecto\bin\Debug\net8.0-windows\DataStats.exe
+C:\Users\DENILSON\Desktop\DataStats Proyecto\bin\Debug\net8.0-windows\DataStats.deps.json
+C:\Users\DENILSON\Desktop\DataStats Proyecto\bin\Debug\net8.0-windows\DataStats.runtimeconfig.json
+C:\Users\DENILSON\Desktop\DataStats Proyecto\bin\Debug\net8.0-windows\DataStats.runtimeconfig.dev.json
+C:\Users\DENILSON\Desktop\DataStats Proyecto\bin\Debug\net8.0-windows\DataStats.dll
+C:\Users\DENILSON\Desktop\DataStats Proyecto\bin\Debug\net8.0-windows\DataStats.pdb
+C:\Users\DENILSON\Desktop\DataStats Proyecto\obj\Debug\net8.0-windows\DataStats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DENILSON\Desktop\DataStats Proyecto\obj\Debug\net8.0-windows\DataStats.AssemblyInfoInputs.cache
+C:\Users\DENILSON\Desktop\DataStats Proyecto\obj\Debug\net8.0-windows\DataStats.AssemblyInfo.cs
+C:\Users\DENILSON\Desktop\DataStats Proyecto\obj\Debug\net8.0-windows\DataStats.csproj.CoreCompileInputs.cache
+C:\Users\DENILSON\Desktop\DataStats Proyecto\obj\Debug\net8.0-windows\DataStats.dll
+C:\Users\DENILSON\Desktop\DataStats Proyecto\obj\Debug\net8.0-windows\refint\DataStats.dll
+C:\Users\DENILSON\Desktop\DataStats Proyecto\obj\Debug\net8.0-windows\DataStats.pdb
+C:\Users\DENILSON\Desktop\DataStats Proyecto\obj\Debug\net8.0-windows\DataStats.genruntimeconfig.cache
+C:\Users\DENILSON\Desktop\DataStats Proyecto\obj\Debug\net8.0-windows\ref\DataStats.dll
+C:\Users\DENILSON\Desktop\DataStats Proyecto\obj\Debug\net8.0-windows\DataStats.csproj.Up2Date
