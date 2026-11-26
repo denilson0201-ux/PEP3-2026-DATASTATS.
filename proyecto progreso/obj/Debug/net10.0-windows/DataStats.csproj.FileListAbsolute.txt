@@ -1,0 +1,44 @@
+C:\Users\jhare.DESKTOP-HQ9EE0N\source\repos\DataStats\obj\Debug\net10.0-windows\DataStats.Form1.resources
+C:\Users\jhare.DESKTOP-HQ9EE0N\source\repos\DataStats\obj\Debug\net10.0-windows\DataStats.Properties.Resources.resources
+C:\Users\jhare.DESKTOP-HQ9EE0N\source\repos\DataStats\obj\Debug\net10.0-windows\DataStats.csproj.GenerateResource.cache
+C:\Users\jhare.DESKTOP-HQ9EE0N\source\repos\DataStats\obj\Debug\net10.0-windows\DataStats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhare.DESKTOP-HQ9EE0N\source\repos\DataStats\obj\Debug\net10.0-windows\DataStats.AssemblyInfoInputs.cache
+C:\Users\jhare.DESKTOP-HQ9EE0N\source\repos\DataStats\obj\Debug\net10.0-windows\DataStats.AssemblyInfo.cs
+C:\Users\jhare.DESKTOP-HQ9EE0N\source\repos\DataStats\obj\Debug\net10.0-windows\DataStats.csproj.CoreCompileInputs.cache
+C:\Users\jhare.DESKTOP-HQ9EE0N\source\repos\DataStats\bin\Debug\net10.0-windows\DataStats.exe
+C:\Users\jhare.DESKTOP-HQ9EE0N\source\repos\DataStats\bin\Debug\net10.0-windows\DataStats.dll.config
+C:\Users\jhare.DESKTOP-HQ9EE0N\source\repos\DataStats\bin\Debug\net10.0-windows\DataStats.deps.json
+C:\Users\jhare.DESKTOP-HQ9EE0N\source\repos\DataStats\bin\Debug\net10.0-windows\DataStats.runtimeconfig.json
+C:\Users\jhare.DESKTOP-HQ9EE0N\source\repos\DataStats\bin\Debug\net10.0-windows\DataStats.dll
+C:\Users\jhare.DESKTOP-HQ9EE0N\source\repos\DataStats\bin\Debug\net10.0-windows\DataStats.pdb
+C:\Users\jhare.DESKTOP-HQ9EE0N\source\repos\DataStats\obj\Debug\net10.0-windows\DataStats.dll
+C:\Users\jhare.DESKTOP-HQ9EE0N\source\repos\DataStats\obj\Debug\net10.0-windows\refint\DataStats.dll
+C:\Users\jhare.DESKTOP-HQ9EE0N\source\repos\DataStats\obj\Debug\net10.0-windows\DataStats.pdb
+C:\Users\jhare.DESKTOP-HQ9EE0N\source\repos\DataStats\obj\Debug\net10.0-windows\DataStats.genruntimeconfig.cache
+C:\Users\jhare.DESKTOP-HQ9EE0N\source\repos\DataStats\obj\Debug\net10.0-windows\ref\DataStats.dll
+C:\Users\jhare.DESKTOP-HQ9EE0N\source\repos\DataStats\obj\Debug\net10.0-windows\DataStats.Forms.FormEncuesta.resources
+C:\Users\jhare.DESKTOP-HQ9EE0N\source\repos\DataStats\obj\Debug\net10.0-windows\DataStats.Forms.FormInicio.resources
+C:\Users\jhare.DESKTOP-HQ9EE0N\source\repos\DataStats\obj\Debug\net10.0-windows\DataStats.Forms.FormConsultar.resources
+C:\Users\DENILSON\Desktop\proyecto progreso\bin\Debug\net10.0-windows\DataStats.exe
+C:\Users\DENILSON\Desktop\proyecto progreso\bin\Debug\net10.0-windows\DataStats.dll.config
+C:\Users\DENILSON\Desktop\proyecto progreso\bin\Debug\net10.0-windows\DataStats.deps.json
+C:\Users\DENILSON\Desktop\proyecto progreso\bin\Debug\net10.0-windows\DataStats.runtimeconfig.json
+C:\Users\DENILSON\Desktop\proyecto progreso\bin\Debug\net10.0-windows\DataStats.runtimeconfig.dev.json
+C:\Users\DENILSON\Desktop\proyecto progreso\bin\Debug\net10.0-windows\DataStats.dll
+C:\Users\DENILSON\Desktop\proyecto progreso\bin\Debug\net10.0-windows\DataStats.pdb
+C:\Users\DENILSON\Desktop\proyecto progreso\obj\Debug\net10.0-windows\DataStats.Form1.resources
+C:\Users\DENILSON\Desktop\proyecto progreso\obj\Debug\net10.0-windows\DataStats.Forms.FormConsultar.resources
+C:\Users\DENILSON\Desktop\proyecto progreso\obj\Debug\net10.0-windows\DataStats.Forms.FormEncuesta.resources
+C:\Users\DENILSON\Desktop\proyecto progreso\obj\Debug\net10.0-windows\DataStats.Forms.FormInicio.resources
+C:\Users\DENILSON\Desktop\proyecto progreso\obj\Debug\net10.0-windows\DataStats.Properties.Resources.resources
+C:\Users\DENILSON\Desktop\proyecto progreso\obj\Debug\net10.0-windows\DataStats.csproj.GenerateResource.cache
+C:\Users\DENILSON\Desktop\proyecto progreso\obj\Debug\net10.0-windows\DataStats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DENILSON\Desktop\proyecto progreso\obj\Debug\net10.0-windows\DataStats.AssemblyInfoInputs.cache
+C:\Users\DENILSON\Desktop\proyecto progreso\obj\Debug\net10.0-windows\DataStats.AssemblyInfo.cs
+C:\Users\DENILSON\Desktop\proyecto progreso\obj\Debug\net10.0-windows\DataStats.csproj.CoreCompileInputs.cache
+C:\Users\DENILSON\Desktop\proyecto progreso\obj\Debug\net10.0-windows\DataStats.dll
+C:\Users\DENILSON\Desktop\proyecto progreso\obj\Debug\net10.0-windows\refint\DataStats.dll
+C:\Users\DENILSON\Desktop\proyecto progreso\obj\Debug\net10.0-windows\DataStats.pdb
+C:\Users\DENILSON\Desktop\proyecto progreso\obj\Debug\net10.0-windows\DataStats.genruntimeconfig.cache
+C:\Users\DENILSON\Desktop\proyecto progreso\obj\Debug\net10.0-windows\ref\DataStats.dll
+C:\Users\DENILSON\Desktop\proyecto progreso\obj\Debug\net10.0-windows\DataStats.csproj.Up2Date
